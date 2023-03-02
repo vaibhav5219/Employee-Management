@@ -1,0 +1,13 @@
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\bin\Debug\net6.0\EF Core.deps.json
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\bin\Debug\net6.0\EF Core.runtimeconfig.json
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\bin\Debug\net6.0\EF Core.dll
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\bin\Debug\net6.0\ref\EF Core.dll
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\bin\Debug\net6.0\EF Core.pdb
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.AssemblyInfoInputs.cache
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.AssemblyInfo.cs
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.csproj.CoreCompileInputs.cache
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.dll
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\ref\EF Core.dll
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.pdb
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.genruntimeconfig.cache
