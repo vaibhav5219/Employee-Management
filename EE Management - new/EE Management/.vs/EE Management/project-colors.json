@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdf1f788-d087-4fbc-bdb4-0f6bd97cfd22": {
+      "ProjectGuid": "cdf1f788-d087-4fbc-bdb4-0f6bd97cfd22",
+      "DisplayName": "EE Management",
+      "ColorIndex": 0
+    },
+    "60509875-05f9-48f1-afc1-2bc76d60cde9": {
+      "ProjectGuid": "60509875-05f9-48f1-afc1-2bc76d60cde9",
+      "DisplayName": "EF Core",
+      "ColorIndex": 1
+    },
+    "c4e3e07f-4193-4711-a7cf-a836b61be8c9": {
+      "ProjectGuid": "c4e3e07f-4193-4711-a7cf-a836b61be8c9",
+      "DisplayName": "EE Management - 2",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

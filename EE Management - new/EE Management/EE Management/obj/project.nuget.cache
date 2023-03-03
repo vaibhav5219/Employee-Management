@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KOyT/yvusW8TtMLv9h3oiAN1Yk4TUU/my6OFX/t2DaNw3dwUSMCg0AoTrISVQsdAwQBml/k2TBiH1yGNaavZVA==",
+  "dgSpecHash": "lU4F0Hi4XVH5VS/vv8E5Qn6Gyb14s1LE8VOSso3d9QcqO5ery5gSR2vZFACkqkpZLt8/t8wKj2QS7WiE/x9qyA==",
   "success": true,
   "projectFilePath": "D:\\Dot Net\\Dot Net Core\\Employee Management\\EE Management - new\\EE Management\\EE Management\\EE Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Vaibhav.Kumar\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

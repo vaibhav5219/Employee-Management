@@ -11,3 +11,4 @@ D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\ref\EF Core.dll
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.pdb
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.genruntimeconfig.cache
+D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EF Core\obj\Debug\net6.0\EF Core.csproj.AssemblyReference.cache

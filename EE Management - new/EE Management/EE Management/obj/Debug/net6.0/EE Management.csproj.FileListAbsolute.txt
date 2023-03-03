@@ -54,7 +54,6 @@ D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\obj\Debug\net6.0\EE Management.csproj.AssemblyReference.cache
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\obj\Debug\net6.0\EE Management.GeneratedMSBuildEditorConfig.editorconfig
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\obj\Debug\net6.0\EE Management.AssemblyInfoInputs.cache
 D:\Dot Net\Dot Net Core\Employee Management\EE Management - new\EE Management\EE Management\obj\Debug\net6.0\EE Management.AssemblyInfo.cs
